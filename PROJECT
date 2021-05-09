@@ -1,0 +1,6 @@
+domain: github.com
+layout:
+- go.kubebuilder.io/v3
+projectName: etcd-operator
+repo: github.com/huweihuang/etcd-operator
+version: "3"
