@@ -1,0 +1,7 @@
+apiVersion: etcd.github.com/v1
+kind: EtcdCluster
+metadata:
+  name: etcdcluster-sample
+spec:
+  # Add fields here
+  foo: bar
